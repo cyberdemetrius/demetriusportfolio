@@ -1,5 +1,5 @@
 <h1>Hi, I'm Demétrius Vianna Fernandes! </h1>
-I'm a Cybersecurity Professional and a Paralegal. 
+I'm a Cybersecurity Professional, passionate about technology and a graduated in Law. 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -7,8 +7,14 @@ I'm a Cybersecurity Professional and a Paralegal.
 
 <h2> 📃 Certifications </h2>
 
-- [Foundations of Cybersecurity](https://drive.google.com/file/d/1RkuNxMcoW_b2DDoUGqI1l3iB3AMEYLeU/view?usp=drive_link)
-- [Play It Safe: Manage Security Risks](https://drive.google.com/file/d/1Fg-bK3DAFJRpW2vChvU6En7W9Km6TEM8/view?usp=drive_link)
-- [Connect and Protect: Networks and Network Security](https://drive.google.com/file/d/1uso48S4KHeziUrpk-OaSGtURKQhgidNR/view?usp=drive_link)
-- [Tools of the trade: Linux and SQL](https://drive.google.com/file/d/1Mg0LdUI-q8rtc9jNnlD1_sn2jFJ95rzQ/view?usp=drive_link)
-- 
+- [Google Cybersecurity Certificate - Google Career Certificates](https://drive.google.com/file/d/1mNlCyPTEgBr-I-gfCoC7T5xZ4sKSpjkg/view?usp=sharing)
+- [Analista SOC Profissional (SOC Analyst) - Instituto Brasileiro de Cibersegurança (IBSEC)](https://drive.google.com/file/d/1Nk8Iqi9S-F1YfyWmSmynpHVR-ck9NnwF/view?usp=sharing)
+- [Boas práticas em Cibersegurança (Cybersecurity Awareness) - Instituto Brasileiro de Cibersegurança (IBSEC)](https://drive.google.com/file/d/1VQdhvNPDEsp2HgNdFQTfeZYwNtheKVK1/view?usp=sharing)
+- [Ethical Hacking Essentials - EC-Council](https://drive.google.com/file/d/17-IRVVzy5bvv7iXRgaoZdWh9vGEyjrNM/view?usp=sharing)
+- [AWS Cloud Practitioner Essentials - Amazon Web Services (AWS)](https://drive.google.com/file/d/1Lgd4F2bYfMpb5pva9_KxnwDYM8_3keeZ/view?usp=sharing)
+- [Introduction to MS Azure Cloud Services - Microsoft](https://drive.google.com/file/d/1Z3RSQoLONRGscmG1xI3N4srbD2r9kxHC/view?usp=sharing)
+
+<h2> 📃 Coursera Projects-Certification </h2>
+
+- [Vulnerability Scanning with Nmap: Network Scanning](https://drive.google.com/file/d/15t9oOs8KHCVZSpYb2kfRhSOvDeJnV9km/view?usp=sharing)
+- [Security with AWS: Identity and Access Management (IAM)](https://drive.google.com/file/d/1AJ7wAygsQj8kPGlR_nTYRBfogXii9GLw/view?usp=sharing)
