@@ -3,7 +3,7 @@ I'm a Cybersecurity Analyst, passionate about technology and a Bachelor of Law.
 
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Secure Password Generator (Gerador de Senhas Seguras)](https://github.com/joshmadakor1/AD_PS) - *This project is on PT-BR language. It is simple app to generate secure passwords using Python and Tkinter graphical interface.*
 
 
 <h2> 📋 Professional Activities: </h2>
