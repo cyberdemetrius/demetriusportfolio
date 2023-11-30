@@ -1,4 +1,4 @@
-<h1>Hi, Welcome to my Cybersecurity Portfolio!</h1>
+<h1>Hi, welcome to my Cybersecurity Portfolio!</h1>
 As you can see, here are some of my IT projects, Professional and Academic activities and some of my Certifications. 
 
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
