@@ -1,5 +1,5 @@
-<h1>Hi, I'm Demétrius Vianna Fernandes! </h1>
-I'm a Cybersecurity Professional, passionate about technology and a graduated in Law. 
+<h1>Hi, I'm Demétrius Fernandes! </h1>
+I'm a Cybersecurity Analyst, passionate about technology and a Bachelor of Law. 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -8,6 +8,7 @@ I'm a Cybersecurity Professional, passionate about technology and a graduated in
 <h2> 📃 Certifications </h2>
 
 - [Google Cybersecurity Certificate - Google Career Certificates](https://drive.google.com/file/d/1mNlCyPTEgBr-I-gfCoC7T5xZ4sKSpjkg/view?usp=sharing)
+- [The Foundations of Cybersecurity - University System of Georgia (USG)](https://drive.google.com/file/d/18LmsT28z2XUMZWLm5AOD21r5CzI0nDsQ/view?usp=sharing)
 - [Analista SOC Profissional (SOC Analyst) - Instituto Brasileiro de Cibersegurança (IBSEC)](https://drive.google.com/file/d/1Nk8Iqi9S-F1YfyWmSmynpHVR-ck9NnwF/view?usp=sharing)
 - [Boas práticas em Cibersegurança (Cybersecurity Awareness) - Instituto Brasileiro de Cibersegurança (IBSEC)](https://drive.google.com/file/d/1VQdhvNPDEsp2HgNdFQTfeZYwNtheKVK1/view?usp=sharing)
 - [Ethical Hacking Essentials - EC-Council](https://drive.google.com/file/d/17-IRVVzy5bvv7iXRgaoZdWh9vGEyjrNM/view?usp=sharing)
