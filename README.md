@@ -1,12 +1,14 @@
 <h1>Hi, welcome to my Cybersecurity Portfolio!</h1>
 As you can see, here are some of my IT projects, Professional and Academic activities and some of my Certifications. 
 
-<h2> 👨‍💻 Cybersecurity Projects:</h2>
+<h2> 👨‍💻 IT Projects:</h2>
 
-  - [Secure Password Generator (Gerador de Senhas Seguras)](https://github.com/cyberdemetrius/gerador_de_senhas) - *This project is on PT-BR language. It is simple app to generate secure passwords using Python and Tkinter graphical interface.*
-
+  - [Gerador de Senhas Seguras](https://github.com/cyberdemetrius/gerador_de_senhas) - ᴘᴛ-ʙʀ/🇪​​​​​🇳​​​​​-🇺​​​​​🇸 » *It is simple app to generate secure passwords using Python and Tkinter graphical interface.*
+  - [Monitor de Integridade de Arquivos (Linux e Windows)](https://github.com/cyberdemetrius/scriptmonit) - ᴘᴛ-ʙʀ » *A simple Script that acts as a basic File Integrity Monitor.*
+  - [VSS tool: Verificador de Senhas Seguras](https://github.com/cyberdemetrius/vss_tool) - ᴘᴛ-ʙʀ » *A small project of a Strong Password Checker.*
 
 <h2> 📋 Professional Activities: </h2>
+🇪​​​​​🇳​​​​​-🇺​​​​​🇸: 
 
 - [Internal IT Security Audit (Risk assessment, Controls assessment and Compliance assessment)](https://drive.google.com/file/d/1FryTPqUCQ-AZlPYwl4zfcGG1iL-08H02/view?usp=sharing)
 - [Some Incident Reports](https://drive.google.com/drive/folders/1E6i21XkeQrVu8U3tZfcu9dSiOeNfYtVU?usp=sharing)
