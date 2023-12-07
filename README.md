@@ -3,12 +3,12 @@ As you can see, here are some of my IT projects, Professional and Academic activ
 
 <h2> 👨‍💻 IT Projects:</h2>
 
-  - [Gerador de Senhas Seguras](https://github.com/cyberdemetrius/gerador_de_senhas) - ᴘᴛ-ʙʀ/🇪​​​​​🇳​​​​​-🇺​​​​​🇸 » *It is simple app to generate secure passwords using Python and Tkinter graphical interface.*
-  - [Monitor de Integridade de Arquivos (Linux e Windows)](https://github.com/cyberdemetrius/scriptmonit) - ᴘᴛ-ʙʀ » *A simple Script that acts as a basic File Integrity Monitor.*
-  - [VSS tool: Verificador de Senhas Seguras](https://github.com/cyberdemetrius/vss_tool) - ᴘᴛ-ʙʀ » *A small project of a Strong Password Checker.*
+  - [Gerador de Senhas Seguras](https://github.com/cyberdemetrius/gerador_de_senhas) - PT-BR/EN-US » *A simple app to generate secure passwords using Python and Tkinter graphical interface.*
+  - [Monitor de Integridade de Arquivos (Linux e Windows)](https://github.com/cyberdemetrius/scriptmonit) - PT-BR » *A simple Script that acts as a File Integrity Monitor.*
+  - [VSS tool: Verificador de Senhas Seguras](https://github.com/cyberdemetrius/vss_tool) - PT-BR » *A small project of a Strong Password Checker.*
 
 <h2> 📋 Professional Activities: </h2>
-🇪​​​​​🇳​​​​​-🇺​​​​​🇸: 
+EN-US: 
 
 - [Internal IT Security Audit (Risk assessment, Controls assessment and Compliance assessment)](https://drive.google.com/file/d/1FryTPqUCQ-AZlPYwl4zfcGG1iL-08H02/view?usp=sharing)
 - [Some Incident Reports](https://drive.google.com/drive/folders/1E6i21XkeQrVu8U3tZfcu9dSiOeNfYtVU?usp=sharing)
