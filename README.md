@@ -16,7 +16,7 @@ EN-US:
 - [Security risk assessment report](https://drive.google.com/file/d/1EgJEJQrb6bQgRqYrs5g8OvWB0OusZqEa/view?usp=sharing)
 - [Risk register](https://drive.google.com/file/d/1J_HHADqWHfHA7zqPwPS8FjghRh0CsQyB/view?usp=sharing)
 - [Other activities](https://drive.google.com/drive/folders/14xYv5HvMYZ-_xiYrQ7pn9Kp4o06nSkBb?usp=sharing)
-- [All activities](https://drive.google.com/drive/folders/1euuPABtWflg5xyehLKxO_ZZA-2U6_v91?usp=sharing)
+- [All activities](https://drive.google.com/drive/folders/1euuPABtWflg5xyehLKxO_ZZA-2U6_v91?usp=sharing) - *You can find all my activities here.*
 
 <h2> 📃 Certifications </h2>
 
