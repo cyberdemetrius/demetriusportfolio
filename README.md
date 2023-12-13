@@ -7,7 +7,7 @@ As you can see, here are some of my IT projects, Professional and Academic activ
   - [Monitor de Integridade de Arquivos (Linux e Windows)](https://github.com/cyberdemetrius/scriptmonit) - PT-BR » *A simple Script that acts as a File Integrity Monitor.*
   - [VSS tool: Verificador de Senhas Seguras](https://github.com/cyberdemetrius/vss_tool) - PT-BR » *A small project of a Strong Password Checker.*
 
-<h2> 📋 Professional Activities: </h2>
+<h2> 📋 Professional/Academic Activities: </h2>
 EN-US: 
 
 - [Internal IT Security Audit (Risk assessment, Controls assessment and Compliance assessment)](https://drive.google.com/file/d/1FryTPqUCQ-AZlPYwl4zfcGG1iL-08H02/view?usp=sharing)
@@ -16,6 +16,7 @@ EN-US:
 - [Security risk assessment report](https://drive.google.com/file/d/1EgJEJQrb6bQgRqYrs5g8OvWB0OusZqEa/view?usp=sharing)
 - [Risk register](https://drive.google.com/file/d/1J_HHADqWHfHA7zqPwPS8FjghRh0CsQyB/view?usp=sharing)
 - [Other activities](https://drive.google.com/drive/folders/14xYv5HvMYZ-_xiYrQ7pn9Kp4o06nSkBb?usp=sharing)
+- [All activities](https://drive.google.com/drive/folders/1euuPABtWflg5xyehLKxO_ZZA-2U6_v91?usp=sharing)
 
 <h2> 📃 Certifications </h2>
 
