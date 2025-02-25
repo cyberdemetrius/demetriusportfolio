@@ -22,6 +22,7 @@ EN-US:
 
 <h2> 📃 Certifications </h2>
 
+- [Blue Team Specialization - Hackers do Bem](https://drive.google.com/file/d/1U6gxg2FZsoi5EFdHHwWNa7zPRydsx2lo/view?usp=sharing)
 - [Google Cybersecurity Certificate - Google Career Certificates](https://coursera.org/share/e0f684825d0e992c5e50f5f48cba65aa)
 - [The Foundations of Cybersecurity - Kennesaw State University of Georgia (USG)](https://drive.google.com/file/d/18LmsT28z2XUMZWLm5AOD21r5CzI0nDsQ/view?usp=sharing)
 - [Fortinet Certified Fundamentals in Cybersecurity - Fortinet](https://www.credly.com/badges/fb541296-fbd4-4a8e-83d0-b5e2bebc4d3c/public_url)
