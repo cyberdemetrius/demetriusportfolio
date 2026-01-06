@@ -23,7 +23,7 @@ EN-US:
 <h2> 📃 Certifications </h2>
 
 - [ISO/IEC 27001:2022 Lead Auditor - Mastermind Assurance](https://www.credly.com/badges/088ada3d-76d5-40db-9ff5-e3725980418b/linked_in_profile)
-- [Certified in Cybersecurity - ISC2](https://www.credly.com/badges/066d0ba3-05a2-4572-aa6a-d7cca786a404/linked_in_profile)
+- [Certified in Cybersecurity (CC) - ISC2](https://www.credly.com/badges/066d0ba3-05a2-4572-aa6a-d7cca786a404/linked_in_profile)
 - [Cybersecurity Fellowship Program (Residência em Cibersegurança) - Hackers do Bem](https://drive.google.com/file/d/1WCCwi_1ciU0hm8vBc39VmTQu2qtddMZn/view?usp=sharing)
 - [Google Cybersecurity Certificate - Google Career Certificates](https://coursera.org/share/e0f684825d0e992c5e50f5f48cba65aa)
 - [The Foundations of Cybersecurity - Kennesaw State University of Georgia (USG)](https://drive.google.com/file/d/18LmsT28z2XUMZWLm5AOD21r5CzI0nDsQ/view?usp=sharing)
