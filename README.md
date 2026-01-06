@@ -34,6 +34,7 @@ EN-US:
 - [AWS Cloud Practitioner Essentials - Amazon Web Services (AWS)](https://drive.google.com/file/d/1Lgd4F2bYfMpb5pva9_KxnwDYM8_3keeZ/view?usp=sharing)
 - [Introduction to MS Azure Cloud Services - Microsoft](https://drive.google.com/file/d/1Z3RSQoLONRGscmG1xI3N4srbD2r9kxHC/view?usp=sharing)
 - [All certificates](https://drive.google.com/drive/folders/1kMVdyl8Q7Nn7gnj4aYs0l5P1UYL3Dd6y?usp=sharing)
+- [Participation in Events](https://drive.google.com/drive/folders/1ca6h3k4LBecBdwD1FKR0DBvWp244g67A?usp=sharing)
 
 <h2> 📃 Coursera Projects with Certification </h2>
 
